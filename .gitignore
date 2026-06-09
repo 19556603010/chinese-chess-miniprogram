@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# WeChat dev tools
+.project
+.settings/
+
+# Cloud functions node_modules
+cloudfunctions/**/node_modules/
+
+# Environment
+.env
+.env.*
+
+# Server script
+server.js
